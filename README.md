@@ -1,4 +1,4 @@
-Links to Kagle of these projects:
+Links to Kaggle of these projects:
 
 Liver Cirrhosis Stage .91 classification models - https://www.kaggle.com/code/singuru/liver-cirrhosis-stage-91-classification-models/notebook
 
